@@ -1,0 +1,5 @@
+老外撸关功能
+r6↓
+loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))()
+r15↓
+loadstring(game:HttpGet("https://pastefy.app/YZoglOyJ/raw"))()

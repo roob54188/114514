@@ -1,0 +1,2 @@
+神青俄亥俄州脚本V1，功能现在很少，但是会一直更新的
+loadstring(game:HttpGet("https://raw.githubusercontent.com/roblox-ye/QQ515966991/refs/heads/main/YE-SHENQING-SCRIPT-OHIO.lua"))()

@@ -1,0 +1,7 @@
+神青脚本已回归，本次更新V8，感觉你们一路的支持，V8如下↓
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gycgchgyfytdttr/shenqin/refs/heads/main/585585757575757575.txt"))()
+
+－－－－－－－－－－－－－－－－－－－－－分隔线，不要搞混了－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+下面是俄亥俄州脚本↓
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gycgchgyfytdttr/shenqin/refs/heads/main/v8.txt"))()
